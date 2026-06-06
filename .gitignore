@@ -1,0 +1,11 @@
+__pycache__/
+build/
+dist/
+wheels/
+
+.venv
+__pycache__/
+faq_index/
+*.pyc
+.env
+.venv/
