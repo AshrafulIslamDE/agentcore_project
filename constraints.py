@@ -1,0 +1,1 @@
+VECTOR_DATABASE_FOLDER_PATH="faq_index"
